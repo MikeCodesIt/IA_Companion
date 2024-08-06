@@ -4,6 +4,6 @@
 
 ### Hosts
 
-Hosts must currently be provided as a text document with 1 host per line. please us IP adresses as hostnames are currently not support (planned for the future.)
+Hosts must currently be provided as a text document with 1 host per line. please use IP adresses as hostnames are currently not supported (planned for the future.)
 
 
